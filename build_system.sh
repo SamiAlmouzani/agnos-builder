@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-# just trying to trigger the CI runner
+# another change to trigger CI runner
 
 UBUNTU_BASE_URL="http://cdimage.ubuntu.com/ubuntu-base/releases/20.04/release"
 UBUNTU_FILE="ubuntu-base-20.04.1-base-arm64.tar.gz"
